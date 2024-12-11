@@ -46,7 +46,7 @@ TicTacToe/
 🖥️ Live Demo
 
 View Live Demo
-([Live Demo](https://aditya2006p.github.io/KeyForge-Secure-Password-Generator/))
+([Live Demo](aditya2006p.github.io/TicTacToe-Master/))
 
 🤝 Contributions
 
