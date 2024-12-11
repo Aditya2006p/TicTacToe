@@ -2,6 +2,9 @@
 
 **TicTacToe Master** is a modern web-based version of the classic Tic-Tac-Toe game. Built using **HTML**, **CSS**, and **JavaScript**, this app allows you to play against a friend or the computer. With a user-friendly interface and responsive design, it's a great way to pass the time while challenging your strategic skills.
 
+
+<img width="1446" alt="Screenshot 2024-12-11 at 7 04 10 PM" src="https://github.com/user-attachments/assets/ee25e986-b192-4ced-88dc-eb1bea8c7a04" />
+
 ---
 
 ## 🚀 Features
